@@ -2,7 +2,7 @@
  * led_8.c
  *
  * Created: 10/22/2017 6:45:43 PM
- * Author : Amin
+ * Author : ishrak
  */ 
 #define F_CPU 8000000UL
 #include <util/delay.h>
