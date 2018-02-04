@@ -2,7 +2,7 @@
  * ATmega32 LEDBlink PORT C.c
  *
  * Created: 10/22/2017 11:58:56 PM
- * Author : sanjan
+ * Author : ishrak
  */ 
 
 #ifndef F_CPU
